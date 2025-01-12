@@ -61,7 +61,7 @@ Create DNS records
    Application views counter
    ![Setup an S3 Bucket](https://github.com/user-attachments/assets/4d8d3aea-7479-48a9-9b82-77587286fe09)
 
-** Final display Application demo**
+## Final display Application demo
 <img width="1439" alt="Screenshot 2025-01-12 at 10 56 40 AM" src="https://github.com/user-attachments/assets/58b625cc-81f4-4e1e-992a-24cac702c6ec" />
 
 
