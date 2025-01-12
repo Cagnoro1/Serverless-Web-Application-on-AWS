@@ -11,8 +11,6 @@ This project demonstrates how to build a **serverless web application** using **
 
 ## Project Architecture  
 
-![P1_ Serverless Web Application on AWS](https://github.com/user-attachments/assets/c8258431-983c-4022-ad3b-7a2e1092ffb4)
-
 
 
 
