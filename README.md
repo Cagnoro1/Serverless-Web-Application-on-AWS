@@ -50,10 +50,14 @@ Create DNS records
 ![DNS records](https://github.com/user-attachments/assets/1534fe11-a453-46eb-bfc3-9781091c981d)
 
 6. **Create a DynamoDB Table**: Design and create a table to store application data.
-   
+   ![Create DynamoDB](https://github.com/user-attachments/assets/1f4bdb83-7bd6-4cee-a336-5aa51c07ede4)
+
    
 7. **Build a Lambda Function**: Develop Lambda functions for handling CRUD operations and integrate them with the DynamoDB table.
-   
+   Create a Lambda function and integrate it with the DynamoDB table.
+   ![Create a Lambda function and integrate it with the DynamoDB table](https://github.com/user-attachments/assets/b8e98635-7401-4217-a35f-e83b21def947)
+   ![DynamoDB table](https://github.com/user-attachments/assets/f0ea378b-4805-4eab-a25b-882045ffa3ee)
+
 
 ## Expected Outcome  
 By completing this project, you will:  
