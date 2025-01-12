@@ -58,6 +58,10 @@ Create DNS records
    ![Create a Lambda function and integrate it with the DynamoDB table](https://github.com/user-attachments/assets/b8e98635-7401-4217-a35f-e83b21def947)
    ![DynamoDB table](https://github.com/user-attachments/assets/f0ea378b-4805-4eab-a25b-882045ffa3ee)
 
+   Application views counter
+   ![Setup an S3 Bucket](https://github.com/user-attachments/assets/4d8d3aea-7479-48a9-9b82-77587286fe09)
+
+
 
 ## Expected Outcome  
 By completing this project, you will:  
