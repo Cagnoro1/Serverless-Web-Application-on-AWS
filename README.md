@@ -74,3 +74,14 @@ By completing this project, you will:
 
 ## Click here to try the application ⬇️⬇️
 https://greeting.christelleincloud.click/  
+
+## Improvements  
+Here are potential ways to enhance the project:  
+* **Authentication**: Add user authentication using AWS Cognito for secure access.  
+* **API Gateway**: Use AWS API Gateway to manage API endpoints and enable better scalability.  
+* **Monitoring**: Implement monitoring and logging with AWS CloudWatch for better debugging and performance tracking.  
+* **Deployment**: Use AWS SAM or Terraform for automated infrastructure deployment.  
+* **Frontend Framework**: Upgrade the frontend with a modern framework like React or Angular to improve user experience.  
+* **Cost Optimization**: Configure budgets and alerts with AWS Cost Explorer to optimize expenses.  
+
+### Ready to build your first serverless app? 🚀 Let’s dive into AWS!
