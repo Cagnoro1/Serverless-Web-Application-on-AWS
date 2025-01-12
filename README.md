@@ -29,12 +29,17 @@ This project demonstrates how to build a **serverless web application** using **
 
 ## Steps to Build the Project  
 1. **Setup an S3 Bucket**: Upload and configure static files (HTML, CSS, JavaScript).
-![P1 step 1](https://github.com/user-attachments/assets/c3a50463-f6bc-4086-8d1b-0b99b36cbfae)
 
-2. **Configure CloudFront**: Link CloudFront with the S3 bucket for optimized content delivery.  
-4. **Setup Route 53**: Map your domain to the CloudFront distribution for easy access.  
-5. **Create a DynamoDB Table**: Design and create a table to store application data.  
-6. **Build a Lambda Function**: Develop Lambda functions for handling CRUD operations and integrate them with the DynamoDB table.  
+
+2. **Configure CloudFront**: Link CloudFront with the S3 bucket for optimized content delivery.
+   
+3. **Setup Route 53**: Map your domain to the CloudFront distribution for easy access.
+   ![P1 step 1](https://github.com/user-attachments/assets/08631dc9-95dc-4b10-ac0f-be890fbef30b)
+
+4. **Create a DynamoDB Table**: Design and create a table to store application data.
+   
+5. **Build a Lambda Function**: Develop Lambda functions for handling CRUD operations and integrate them with the DynamoDB table.
+   
 
 ## Expected Outcome  
 By completing this project, you will:  
