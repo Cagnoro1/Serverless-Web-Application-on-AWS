@@ -29,7 +29,7 @@ This project demonstrates how to build a **serverless web application** using **
 
 ## Steps to Build the Project  
 1. **Setup an S3 Bucket**: Upload and configure static files (HTML, CSS, JavaScript).
-    <img width="1440" alt="Screenshot 2025-01-11 at 1 00 47 PM" src="https://github.com/user-attachments/assets/bda9b2d2-ac00-4625-a3e8-6c6e17f577af" />
+![P1 step 1](https://github.com/user-attachments/assets/c3a50463-f6bc-4086-8d1b-0b99b36cbfae)
 
 2. **Configure CloudFront**: Link CloudFront with the S3 bucket for optimized content delivery.  
 4. **Setup Route 53**: Map your domain to the CloudFront distribution for easy access.  
