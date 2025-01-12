@@ -75,7 +75,7 @@ By completing this project, you will:
 ## Click here to try the application ⬇️⬇️
 https://greeting.christelleincloud.click/  
 
-## Improvements  
+## Potential Improvements  
 Here are potential ways to enhance the project:  
 * **Authentication**: Add user authentication using AWS Cognito for secure access.  
 * **API Gateway**: Use AWS API Gateway to manage API endpoints and enable better scalability.  
