@@ -37,12 +37,22 @@ Upload HTML, CSS, and JavaScript  files into the S3 bucket.
 
 
 3. **Configure CloudFront**: Link CloudFront with the S3 bucket for optimized content delivery.
-   
-4. **Setup Route 53**: Map your domain to the CloudFront distribution for easy access.
+   ![Setup AWS CloudFront](https://github.com/user-attachments/assets/0ab5bab8-3b25-4e6f-9293-dd736e511b0d)
 
-5. **Create a DynamoDB Table**: Design and create a table to store application data.
+   Attach the S3 bucket policy to allow CloudFront to access the AWS S3 bucket.
+   ![Attach S3 bucket policy to the bucket to allow CloudFront can access the AWS3 bucket](https://github.com/user-attachments/assets/f4e5ff59-f7f6-4e74-9717-4a1f80d234c0)
+
+5. **Setup Route 53**: Map your domain to the CloudFront distribution for easy access.
+   ![Add existing  domain to Route53](https://github.com/user-attachments/assets/c3bb9887-9fd1-4b3f-8a5a-af01b7cda0bd)
+
+Create DNS records 
+
+![DNS records](https://github.com/user-attachments/assets/1534fe11-a453-46eb-bfc3-9781091c981d)
+
+6. **Create a DynamoDB Table**: Design and create a table to store application data.
    
-6. **Build a Lambda Function**: Develop Lambda functions for handling CRUD operations and integrate them with the DynamoDB table.
+   
+7. **Build a Lambda Function**: Develop Lambda functions for handling CRUD operations and integrate them with the DynamoDB table.
    
 
 ## Expected Outcome  
