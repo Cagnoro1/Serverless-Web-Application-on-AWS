@@ -40,4 +40,7 @@ This project demonstrates how to build a **serverless web application** using **
 By completing this project, you will:  
 * Gain hands-on experience with AWS services.  
 * Build a fully functional serverless web application.  
-* Learn to integrate AWS services (Lambda, DynamoDB, S3, CloudFront, and Route 53) to deliver a complete solution.  
+* Learn to integrate AWS services (Lambda, DynamoDB, S3, CloudFront, and Route 53) to deliver a complete solution.
+
+## Click here to try the application ⬇️⬇️
+https://greeting.christelleincloud.click/  
