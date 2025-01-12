@@ -1,34 +1,42 @@
-# Serverless Web Application on AWS
+# Serverless Web Application on AWS  
 
-## Project Description:
+## Project Description  
+This project demonstrates how to build a **serverless web application** using **AWS Lambda**, **DynamoDB**, **S3**, **CloudFront**, and **Route 53**. The application enables users to perform CRUD operations (Create, Read, Update, Delete) on items stored in a DynamoDB table. The web application is fully hosted on AWS, utilizing serverless architecture for scalability and efficiency.  
 
-This project showcases a serverless web application built with AWS Lambda, DynamoDB, and S3. The application allows users to Create new items, Read existing items, Update items, Delete items.
-All data is stored and managed in a DynamoDB table, leveraging the scalability and efficiency of AWS services.
+## Features  
+* Perform CRUD operations on a DynamoDB table.  
+* Host and serve static files (HTML, CSS, JavaScript) via an S3 bucket.  
+* Leverage CloudFront for low-latency content delivery.  
+* Integrate Route 53 for domain management and application routing.  
+
+## Project Architecture  
 
 
-## Project Architecture:
 
 
-## AWS Cloud Services Used:
-- S3 Bucket
-- CloudFront
-- Route 53
-- DynamoDB
-- Lambda
 
-## Programming Languages Used:
-- HTML
-- CSS
-- JavaScript
- 
-## Steps to build the project:
-### Step 1: Setup S3 Bucket
 
-### Step 2: Setup AWS CloudFront 
+### AWS Cloud Services Used  
+* **S3 Bucket**: To store and host static files.  
+* **CloudFront**: For efficient and low-latency content delivery.  
+* **Route 53**: For domain name system (DNS) management.  
+* **DynamoDB**: To store and manage application data.  
+* **Lambda**: To handle backend logic and CRUD operations.  
 
-### Step 3: Setup Route 53
+### Programming Languages Used  
+* **HTML**  
+* **CSS**  
+* **JavaScript**  
 
-### Step 4: Create a DynamoDB table to map with Lambda
+## Steps to Build the Project  
+1. **Setup an S3 Bucket**: Upload and configure static files (HTML, CSS, JavaScript).  
+2. **Configure CloudFront**: Link CloudFront with the S3 bucket for optimized content delivery.  
+3. **Setup Route 53**: Map your domain to the CloudFront distribution for easy access.  
+4. **Create a DynamoDB Table**: Design and create a table to store application data.  
+5. **Build a Lambda Function**: Develop Lambda functions for handling CRUD operations and integrate them with the DynamoDB table.  
 
-### Step 5: Create Lambda function and integrate it with the DynamoDB table
-
+## Expected Outcome  
+By completing this project, you will:  
+* Gain hands-on experience with AWS services.  
+* Build a fully functional serverless web application.  
+* Learn to integrate AWS services (Lambda, DynamoDB, S3, CloudFront, and Route 53) to deliver a complete solution.  
