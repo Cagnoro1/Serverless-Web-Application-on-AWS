@@ -21,7 +21,8 @@ This project demonstrates how to build a **serverless web application** using **
 * **CloudFront**: For efficient and low-latency content delivery.  
 * **Route 53**: For domain name system (DNS) management.  
 * **DynamoDB**: To store and manage application data.  
-* **Lambda**: To handle backend logic and CRUD operations.  
+* **Lambda**: To handle backend logic and CRUD operations.
+* **AWS Certificate Manager*  
 
 ### Programming Languages Used  
 * **HTML**  
